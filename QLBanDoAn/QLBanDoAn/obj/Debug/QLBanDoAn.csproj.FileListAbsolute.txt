@@ -1,0 +1,13 @@
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\bin\Debug\QLBanDoAn.exe.config
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\bin\Debug\QLBanDoAn.exe
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\bin\Debug\QLBanDoAn.pdb
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.csproj.AssemblyReference.cache
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.csproj.SuggestedBindingRedirects.cache
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.fLogin.resources
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.Properties.Resources.resources
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.csproj.GenerateResource.cache
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.csproj.CoreCompileInputs.cache
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.exe
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.pdb
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.fTableManager.resources
+D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.fAccountProfile.resources
