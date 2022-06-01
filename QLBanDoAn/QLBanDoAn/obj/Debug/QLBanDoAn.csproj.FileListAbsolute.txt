@@ -25,3 +25,17 @@ D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\BTL-LT-Windows\QLBanDoAn\QLBanD
 D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.csproj.CoreCompileInputs.cache
 D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.exe
 D:\MONHOC\Nam 2\Ky 2\Giaidoan2\Lap trinh Windows\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.pdb
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\bin\Debug\QLBanDoAn.exe.config
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\bin\Debug\QLBanDoAn.exe
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\bin\Debug\QLBanDoAn.pdb
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.csproj.AssemblyReference.cache
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.fAccountProfile.resources
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.fAdmin.resources
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.fLogin.resources
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.fTableManager.resources
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.Properties.Resources.resources
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.csproj.GenerateResource.cache
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.exe
+C:\Users\Hi\Documents\GitHub\BTL-LT-Windows\QLBanDoAn\QLBanDoAn\obj\Debug\QLBanDoAn.pdb
