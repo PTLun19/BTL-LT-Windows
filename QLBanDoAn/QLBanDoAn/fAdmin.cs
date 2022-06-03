@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QLBanDoAn.DAO;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,22 +19,21 @@ namespace QLBanDoAn
             InitializeComponent();
             LoadAccountList();
         }
+        void LoadFoodList()
+        {
+
+            string query = "Select *from Food";
+
+            dtgvFood.DataSource = DataProvider.Instance.ExecuteQuery(query);
+
+
+        }
         void LoadAccountList()
         {
-            string connectionSTR = "Data Source=DESKTOP-PMPE5UA\\SQLEXPRESS;Initial Catalog=QLBanDoAn;Integrated Security=True";
-            SqlConnection connection = new SqlConnection(connectionSTR);
 
-            string query = "Select * from Account";
-            connection.Open();
-            SqlCommand command = new SqlCommand(query, connection);
-            DataTable data = new DataTable();
-            SqlDataAdapter adapter = new SqlDataAdapter(command);
-            adapter.Fill(data);
-            connection.Close();
-            dtgvAccount.DataSource = data;
-
-
-
+            string query = "Exec USP_GetAccountByUserName @userName";
+            
+            dtgvAccount.DataSource = DataProvider.Instance.ExecuteQuery(query, new object[]{"NV01"});
 
         }
         private void fAdmin_Load(object sender, EventArgs e)
