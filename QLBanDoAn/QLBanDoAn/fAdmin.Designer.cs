@@ -1,4 +1,7 @@
-﻿namespace QLBanDoAn
+﻿using System;
+using System.Windows.Forms;
+
+namespace QLBanDoAn
 {
     partial class fAdmin
     {
@@ -234,7 +237,7 @@
             this.txbSearchFoodName.Name = "txbSearchFoodName";
             this.txbSearchFoodName.Size = new System.Drawing.Size(339, 26);
             this.txbSearchFoodName.TabIndex = 0;
-            this.txbSearchFoodName.TextChanged += new System.EventHandler(this.txbFoodName_TextChanged);
+            this.txbSearchFoodName.TextChanged += new System.EventHandler(this.TxbFoodName_TextChanged);
             // 
             // btnSearchFood
             // 
@@ -1015,6 +1018,26 @@
             this.panel24.PerformLayout();
             this.ResumeLayout(false);
 
+        }
+
+        private void DataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void TabPage2_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void TxbFoodName_TextChanged(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void FAdmin_Load(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion
